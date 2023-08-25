@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front End devlopment**
 
-- 🌱 I’m currently learning **HTML CSS BOOTSTRAP JS PYTHON  Goggle Cloud**
+- 🌱 I’m currently learning **HTML CSS BOOTSTRAP JS Java  Google Cloud**
 
 - 📫 How to reach me **vrajpatil4444@gmail.com**
 
