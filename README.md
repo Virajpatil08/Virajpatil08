@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajpatil08&label=Profile%20views&color=0e75b6&style=flat" alt="virajpatil08" /> </p>
 
-- 🔭 **Currently Working As:** Front-End Developer at **1XL Universe LLC**
+- 🔭 **Worked as a:** Front-End Developer at **1XL Universe LLC**
 - 🌱 **Currently Learning:** Advanced **React.js, Redux Toolkit, API Integration, Performance Optimization**
 - 👨‍💻 **Tech Stack:** **React.js, Redux, Tailwind CSS, JavaScript (ES6), Node.js, MongoDB, SQL**
 - 🚀 **Projects:** **Advertisement Management Platform, Marketing Data Management System, E-Commerce, Portfolio Website**
@@ -23,7 +23,7 @@
 ---
 
 ## 💼 **Experience**  
-### **1XL Universe LLC (Jul 2024 – Present) | Front-End Developer | Pune**  
+### **1XL Universe LLC (Jul 2024 – Feb 2025) | Front-End Developer | Pune**  
 - Developing and maintaining **responsive** user interfaces using **React.js & Tailwind CSS**.  
 - Implementing **state management** with Redux and integrating front-end applications with back-end services.
 
